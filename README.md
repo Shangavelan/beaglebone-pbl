@@ -1,2 +1,2 @@
 supports:
- - Beaglebone Black rev 3
+ - Beaglebone Black rev C
